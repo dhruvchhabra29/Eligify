@@ -1,0 +1,1375 @@
+[
+  {
+    "id": 1,
+    "title": "PM Ujjwala Yojana",
+    "category": "Women & Child",
+    "ministry": "Ministry of Petroleum",
+    "description": "Free LPG connection for women from BPL households.",
+    "benefit": "Free gas connection + stove",
+    "tags": ["female", "bpl"],
+    "officialLink": "https://www.pmuy.gov.in/",
+    "simpleWords": "Free LPG connection for women from BPL households. Users need Aadhaar and address proof. Entire process is online and usually takes a few weeks.",
+    "eligibilityText": [
+      "Applicant must be female",
+      "Must belong to BPL household",
+      "Indian citizen required"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "BPL Card",
+      "Bank Passbook"
+    ],
+    "applySteps": [
+      "Visit nearest LPG distributor",
+      "Submit required documents",
+      "Verification process",
+      "Receive LPG connection"
+    ],
+    "eligibility": {
+      "gender": ["Female"],
+      "bpl": "Yes"
+    }
+  },
+
+  {
+    "id": 2,
+    "title": "Indira Gandhi Disability Pension",
+    "category": "Financial",
+    "ministry": "Ministry of Social Justice",
+    "description": "Monthly pension for disabled citizens.",
+    "benefit": "₹500 monthly pension",
+    "tags": ["disabled"],
+    "officialLink": "https://nsap.nic.in/",
+    "simpleWords": "Financial pension support for disabled citizens with certified disability.",
+    "eligibilityText": [
+      "Must have disability certificate",
+      "Minimum 40% disability required",
+      "Indian citizen required"
+    ],
+    "documents": [
+      "Disability Certificate",
+      "Aadhaar Card",
+      "Bank Passbook"
+    ],
+    "applySteps": [
+      "Apply through local office",
+      "Upload disability proof",
+      "Verification process",
+      "Receive pension"
+    ],
+    "eligibility": {
+      "disability": ["Yes (40%+)", "Yes (80%+)"]
+    }
+  },
+
+  {
+    "id": 3,
+    "title": "Post Matric Scholarship",
+    "category": "Education",
+    "ministry": "Ministry of Education",
+    "description": "Scholarship for SC/ST/OBC students.",
+    "benefit": "Tuition reimbursement",
+    "tags": ["student"],
+    "officialLink": "https://scholarships.gov.in/",
+    "simpleWords": "Scholarship support for students from reserved categories.",
+    "eligibilityText": [
+      "Student must be enrolled",
+      "SC/ST/OBC category required",
+      "Income criteria may apply"
+    ],
+    "documents": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Student ID"
+    ],
+    "applySteps": [
+      "Register on NSP portal",
+      "Fill application form",
+      "Upload documents",
+      "Submit application"
+    ],
+    "eligibility": {
+      "student": "Yes",
+      "category": ["SC", "ST", "OBC"]
+    }
+  },
+
+  {
+    "id": 4,
+    "title": "PM Kisan Samman Nidhi",
+    "category": "Agriculture",
+    "ministry": "Ministry of Agriculture",
+    "description": "Income support for farmers.",
+    "benefit": "₹6000 yearly",
+    "tags": ["farmer"],
+    "officialLink": "https://pmkisan.gov.in/",
+    "simpleWords": "Financial support scheme for farmers across India.",
+    "eligibilityText": [
+      "Applicant must be farmer",
+      "Land ownership proof required",
+      "Indian citizen required"
+    ],
+    "documents": [
+      "Land Records",
+      "Aadhaar Card",
+      "Bank Passbook"
+    ],
+    "applySteps": [
+      "Visit PM Kisan portal",
+      "Register details",
+      "Verify land ownership",
+      "Receive installments"
+    ],
+    "eligibility": {
+      "occupation": ["Farmer"]
+    }
+  },
+
+  {
+    "id": 5,
+    "title": "Atal Pension Yojana",
+    "category": "Pension",
+    "ministry": "Ministry of Finance",
+    "description": "Pension scheme for workers.",
+    "benefit": "Guaranteed pension",
+    "tags": ["worker"],
+    "officialLink": "https://www.npscra.nsdl.co.in/",
+    "simpleWords": "Pension savings scheme for workers and young citizens.",
+    "eligibilityText": [
+      "Age must be between 18 and 40",
+      "Bank account required",
+      "Indian citizen required"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Bank Passbook",
+      "Mobile Number"
+    ],
+    "applySteps": [
+      "Visit nearest bank",
+      "Fill APY form",
+      "Link Aadhaar",
+      "Monthly contribution starts"
+    ],
+    "eligibility": {
+      "ageMin": 18,
+      "ageMax": 40
+    }
+  },
+
+  {
+    "id": 6,
+    "title": "Startup India Seed Fund",
+    "category": "Business",
+    "ministry": "Ministry of Commerce",
+    "description": "Funding support for startups.",
+    "benefit": "Seed funding assistance",
+    "tags": ["startup"],
+    "officialLink": "https://www.startupindia.gov.in/",
+    "simpleWords": "Financial support scheme for startups and entrepreneurs.",
+    "eligibilityText": [
+      "Applicant must own startup",
+      "Business registration required",
+      "Indian startup required"
+    ],
+    "documents": [
+      "Startup Registration",
+      "PAN Card",
+      "Business Proof"
+    ],
+    "applySteps": [
+      "Register startup",
+      "Apply online",
+      "Submit business proposal",
+      "Receive approval"
+    ],
+    "eligibility": {
+      "occupation": ["Self-employed"]
+    }
+  },
+
+  {
+    "id": 7,
+    "title": "National Scholarship Scheme",
+    "category": "Education",
+    "ministry": "Ministry of Education",
+    "description": "Scholarships for students.",
+    "benefit": "Financial support",
+    "tags": ["student"],
+    "officialLink": "https://scholarships.gov.in/",
+    "simpleWords": "Government scholarship support for students.",
+    "eligibilityText": [
+      "Student enrollment required",
+      "Valid educational institution required"
+    ],
+    "documents": [
+      "Student ID",
+      "Income Certificate",
+      "Aadhaar Card"
+    ],
+    "applySteps": [
+      "Visit scholarship portal",
+      "Fill application",
+      "Upload documents",
+      "Submit form"
+    ],
+    "eligibility": {
+      "student": "Yes"
+    }
+  },
+
+  {
+    "id": 8,
+    "title": "Widow Pension Scheme",
+    "category": "Women & Child",
+    "ministry": "Ministry of Women & Child Development",
+    "description": "Support for widowed women.",
+    "benefit": "Monthly pension",
+    "tags": ["female"],
+    "officialLink": "https://nsap.nic.in/",
+    "simpleWords": "Monthly pension assistance for widowed women.",
+    "eligibilityText": [
+      "Applicant must be widow",
+      "Female citizen required"
+    ],
+    "documents": [
+      "Death Certificate",
+      "Aadhaar Card",
+      "Bank Passbook"
+    ],
+    "applySteps": [
+      "Apply through welfare office",
+      "Upload widow proof",
+      "Verification process",
+      "Receive pension"
+    ],
+    "eligibility": {
+      "gender": ["Female"]
+    }
+  },
+
+  {
+    "id": 9,
+    "title": "Skill India Mission",
+    "category": "Employment",
+    "ministry": "Ministry of Skill Development",
+    "description": "Free skill development courses.",
+    "benefit": "Training + certification",
+    "tags": ["employment"],
+    "officialLink": "https://www.skillindia.gov.in/",
+    "simpleWords": "Skill training and employment preparation scheme.",
+    "eligibilityText": [
+      "Applicant must be 18+",
+      "Indian citizen required"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Education Certificate"
+    ],
+    "applySteps": [
+      "Register online",
+      "Choose course",
+      "Attend training",
+      "Receive certificate"
+    ],
+    "eligibility": {
+      "ageMin": 18
+    }
+  },
+
+  {
+    "id": 10,
+    "title": "Ayushman Bharat",
+    "category": "Health",
+    "ministry": "Ministry of Health",
+    "description": "Health insurance coverage.",
+    "benefit": "₹5 lakh insurance",
+    "tags": ["health"],
+    "officialLink": "https://www.pmjay.gov.in/",
+    "simpleWords": "Health insurance coverage for low income families.",
+    "eligibilityText": [
+      "Income eligibility required",
+      "Indian family required"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Ration Card"
+    ],
+    "applySteps": [
+      "Check eligibility online",
+      "Register family",
+      "Get Ayushman card"
+    ],
+    "eligibility": {
+      "income": ["Below 1L", "1-3L"]
+    }
+  }
+  ,
+{
+  "id": 11,
+  "title": "PM Awas Yojana",
+  "category": "Housing",
+  "ministry": "Ministry of Housing",
+  "description": "Affordable housing scheme.",
+  "benefit": "Housing subsidy",
+  "tags": ["housing"],
+  "officialLink": "https://pmaymis.gov.in/",
+  "simpleWords": "Affordable housing support for low and middle income families.",
+  "eligibilityText": [
+    "Applicant must not own permanent house",
+    "Income criteria required"
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "Income Certificate",
+    "Bank Passbook"
+  ],
+  "applySteps": [
+    "Apply online",
+    "Upload documents",
+    "Verification process",
+    "Receive subsidy"
+  ],
+  "eligibility": {
+    "income": ["Below 1L", "1-3L", "3-6L"]
+  }
+},
+
+{
+  "id": 12,
+  "title": "Beti Bachao Beti Padhao",
+  "category": "Women & Child",
+  "ministry": "Ministry of Women & Child Development",
+  "description": "Support for girl child education.",
+  "benefit": "Education benefits",
+  "tags": ["girl child"],
+  "officialLink": "https://wcd.nic.in/",
+  "simpleWords": "Government initiative supporting education of girl children.",
+  "eligibilityText": [
+    "Girl child required",
+    "Indian citizen required"
+  ],
+  "documents": [
+    "Birth Certificate",
+    "Aadhaar Card"
+  ],
+  "applySteps": [
+    "Visit local office",
+    "Submit documents",
+    "Verification process"
+  ],
+  "eligibility": {
+    "girlChild": "Yes"
+  }
+},
+
+{
+  "id": 13,
+  "title": "National Rural Livelihood Mission",
+  "category": "Employment",
+  "ministry": "Ministry of Rural Development",
+  "description": "Self-employment support.",
+  "benefit": "Training + loans",
+  "tags": ["employment"],
+  "officialLink": "https://aajeevika.gov.in/",
+  "simpleWords": "Employment and livelihood support for rural citizens.",
+  "eligibilityText": [
+    "Must belong to rural area"
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "Address Proof"
+  ],
+  "applySteps": [
+    "Register through local office",
+    "Join SHG groups",
+    "Receive benefits"
+  ],
+  "eligibility": {
+    "area": ["Rural"]
+  }
+},
+
+{
+  "id": 14,
+  "title": "Mudra Loan Scheme",
+  "category": "Business",
+  "ministry": "Ministry of Finance",
+  "description": "Loans for small businesses.",
+  "benefit": "Business loan",
+  "tags": ["business"],
+  "officialLink": "https://mudra.org.in/",
+  "simpleWords": "Loan support for startups and small businesses.",
+  "eligibilityText": [
+    "Business activity required"
+  ],
+  "documents": [
+    "PAN Card",
+    "Aadhaar Card",
+    "Business Proof"
+  ],
+  "applySteps": [
+    "Visit bank",
+    "Submit Mudra form",
+    "Loan verification",
+    "Receive loan"
+  ],
+  "eligibility": {
+    "occupation": ["Self-employed"]
+  }
+},
+
+{
+  "id": 15,
+  "title": "Senior Citizen Pension",
+  "category": "Pension",
+  "ministry": "Ministry of Social Justice",
+  "description": "Financial support for elderly.",
+  "benefit": "Monthly pension",
+  "tags": ["senior"],
+  "officialLink": "https://nsap.nic.in/",
+  "simpleWords": "Pension support for senior citizens.",
+  "eligibilityText": [
+    "Age must be 60+"
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "Age Proof"
+  ],
+  "applySteps": [
+    "Apply online",
+    "Submit age proof",
+    "Receive pension"
+  ],
+  "eligibility": {
+    "ageMin": 60
+  }
+},
+
+{
+  "id": 16,
+  "title": "PM Employment Generation Programme",
+  "category": "Employment",
+  "ministry": "Ministry of MSME",
+  "description": "Employment opportunities for youth.",
+  "benefit": "Business subsidy",
+  "tags": ["employment"],
+  "officialLink": "https://www.kviconline.gov.in/",
+  "simpleWords": "Business subsidy scheme for unemployed youth.",
+  "eligibilityText": [
+    "Age must be 18+"
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "Project Report"
+  ],
+  "applySteps": [
+    "Apply online",
+    "Submit project details",
+    "Verification process"
+  ],
+  "eligibility": {
+    "ageMin": 18
+  }
+},
+
+{
+  "id": 17,
+  "title": "National Apprenticeship Scheme",
+  "category": "Employment",
+  "ministry": "Ministry of Skill Development",
+  "description": "Apprenticeship training support.",
+  "benefit": "Monthly stipend",
+  "tags": ["student"],
+  "officialLink": "https://www.apprenticeshipindia.gov.in/",
+  "simpleWords": "Training and stipend support for students.",
+  "eligibilityText": [
+    "Student or fresher required"
+  ],
+  "documents": [
+    "Student ID",
+    "Aadhaar Card"
+  ],
+  "applySteps": [
+    "Register online",
+    "Choose apprenticeship",
+    "Start training"
+  ],
+  "eligibility": {
+    "student": "Yes"
+  }
+},
+
+{
+  "id": 18,
+  "title": "PM Jeevan Jyoti Bima Yojana",
+  "category": "Health",
+  "ministry": "Ministry of Finance",
+  "description": "Life insurance scheme.",
+  "benefit": "₹2 lakh insurance",
+  "tags": ["insurance"],
+  "officialLink": "https://jansuraksha.gov.in/",
+  "simpleWords": "Affordable life insurance for citizens.",
+  "eligibilityText": [
+    "Bank account required",
+    "Age between 18 and 50"
+  ],
+  "documents": [
+    "Bank Account",
+    "Aadhaar Card"
+  ],
+  "applySteps": [
+    "Visit bank",
+    "Enroll in scheme",
+    "Pay premium"
+  ],
+  "eligibility": {
+    "ageMin": 18,
+    "ageMax": 50
+  }
+},
+
+{
+  "id": 19,
+  "title": "PM Suraksha Bima Yojana",
+  "category": "Health",
+  "ministry": "Ministry of Finance",
+  "description": "Accident insurance scheme.",
+  "benefit": "₹2 lakh accident cover",
+  "tags": ["insurance"],
+  "officialLink": "https://jansuraksha.gov.in/",
+  "simpleWords": "Affordable accident insurance coverage.",
+  "eligibilityText": [
+    "Bank account required"
+  ],
+  "documents": [
+    "Bank Account",
+    "Aadhaar Card"
+  ],
+  "applySteps": [
+    "Visit bank",
+    "Enroll in insurance"
+  ],
+  "eligibility": {
+    "ageMin": 18
+  }
+},
+
+{
+  "id": 20,
+  "title": "Kisan Credit Card",
+  "category": "Agriculture",
+  "ministry": "Ministry of Agriculture",
+  "description": "Credit support for farmers.",
+  "benefit": "Easy agricultural loans",
+  "tags": ["farmer"],
+  "officialLink": "https://pmkisan.gov.in/",
+  "simpleWords": "Loan and credit support for farmers.",
+  "eligibilityText": [
+    "Farmer required"
+  ],
+  "documents": [
+    "Land Proof",
+    "Aadhaar Card"
+  ],
+  "applySteps": [
+    "Visit bank",
+    "Apply for KCC",
+    "Verification"
+  ],
+  "eligibility": {
+    "occupation": ["Farmer"]
+  }
+}
+,
+{
+  "id": 21,
+  "title": "National Family Benefit Scheme",
+  "category": "Financial",
+  "ministry": "Ministry of Rural Development",
+  "description": "Financial support to poor families after death of earning member.",
+  "benefit": "₹20,000 assistance",
+  "tags": ["family"],
+  "officialLink": "https://nsap.nic.in/",
+  "simpleWords": "One-time financial support for poor families.",
+  "eligibilityText": [
+    "BPL family required",
+    "Death of earning member required"
+  ],
+  "documents": [
+    "Death Certificate",
+    "BPL Card",
+    "Bank Passbook"
+  ],
+  "applySteps": [
+    "Visit local welfare office",
+    "Submit documents",
+    "Verification process"
+  ],
+  "eligibility": {
+    "bpl": "Yes"
+  }
+},
+
+{
+  "id": 22,
+  "title": "Free Sewing Machine Scheme",
+  "category": "Women & Child",
+  "ministry": "Ministry of Women & Child Development",
+  "description": "Free sewing machines for women.",
+  "benefit": "Free sewing machine",
+  "tags": ["female"],
+  "officialLink": "https://india.gov.in/",
+  "simpleWords": "Support for women to start self-employment through tailoring.",
+  "eligibilityText": [
+    "Applicant must be female"
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "Income Certificate"
+  ],
+  "applySteps": [
+    "Apply online",
+    "Submit documents",
+    "Verification"
+  ],
+  "eligibility": {
+    "gender": ["Female"]
+  }
+},
+
+{
+  "id": 23,
+  "title": "PM SVANidhi Scheme",
+  "category": "Business",
+  "ministry": "Ministry of Housing",
+  "description": "Loans for street vendors.",
+  "benefit": "Working capital loan",
+  "tags": ["vendor"],
+  "officialLink": "https://pmsvanidhi.mohua.gov.in/",
+  "simpleWords": "Loan support for small street vendors.",
+  "eligibilityText": [
+    "Street vendor required"
+  ],
+  "documents": [
+    "Vendor ID",
+    "Aadhaar Card"
+  ],
+  "applySteps": [
+    "Apply online",
+    "Verification",
+    "Receive loan"
+  ],
+  "eligibility": {
+    "occupation": ["Self-employed"]
+  }
+},
+
+{
+  "id": 24,
+  "title": "Stand Up India Scheme",
+  "category": "Business",
+  "ministry": "Ministry of Finance",
+  "description": "Loans for women and SC/ST entrepreneurs.",
+  "benefit": "Business loans",
+  "tags": ["business"],
+  "officialLink": "https://www.standupmitra.in/",
+  "simpleWords": "Business loan support for entrepreneurs.",
+  "eligibilityText": [
+    "Women or SC/ST applicant required"
+  ],
+  "documents": [
+    "Business Proof",
+    "PAN Card"
+  ],
+  "applySteps": [
+    "Apply through portal",
+    "Verification process",
+    "Receive loan"
+  ],
+  "eligibility": {
+    "gender": ["Female"],
+    "category": ["SC", "ST"]
+  }
+},
+
+{
+  "id": 25,
+  "title": "PM Poshan Scheme",
+  "category": "Health",
+  "ministry": "Ministry of Education",
+  "description": "Mid-day meal scheme for school children.",
+  "benefit": "Free nutritious meals",
+  "tags": ["student"],
+  "officialLink": "https://pmposhan.education.gov.in/",
+  "simpleWords": "Nutritious meals for students in schools.",
+  "eligibilityText": [
+    "School student required"
+  ],
+  "documents": [
+    "School ID"
+  ],
+  "applySteps": [
+    "Enroll in school",
+    "Receive benefits automatically"
+  ],
+  "eligibility": {
+    "student": "Yes"
+  }
+},
+
+{
+  "id": 26,
+  "title": "National Means Scholarship",
+  "category": "Education",
+  "ministry": "Ministry of Education",
+  "description": "Scholarship for meritorious students.",
+  "benefit": "₹12,000 scholarship",
+  "tags": ["student"],
+  "officialLink": "https://scholarships.gov.in/",
+  "simpleWords": "Scholarship support for deserving students.",
+  "eligibilityText": [
+    "Student enrollment required"
+  ],
+  "documents": [
+    "Marksheet",
+    "Income Certificate"
+  ],
+  "applySteps": [
+    "Register online",
+    "Fill form",
+    "Upload documents"
+  ],
+  "eligibility": {
+    "student": "Yes"
+  }
+},
+
+{
+  "id": 27,
+  "title": "Balika Samridhi Yojana",
+  "category": "Women & Child",
+  "ministry": "Ministry of Women & Child Development",
+  "description": "Support for girl child welfare.",
+  "benefit": "Financial assistance",
+  "tags": ["girl child"],
+  "officialLink": "https://wcd.nic.in/",
+  "simpleWords": "Financial support scheme for girl children.",
+  "eligibilityText": [
+    "Girl child required"
+  ],
+  "documents": [
+    "Birth Certificate",
+    "Aadhaar Card"
+  ],
+  "applySteps": [
+    "Apply through local office",
+    "Submit proof"
+  ],
+  "eligibility": {
+    "girlChild": "Yes"
+  }
+},
+
+{
+  "id": 28,
+  "title": "Janani Suraksha Yojana",
+  "category": "Health",
+  "ministry": "Ministry of Health",
+  "description": "Safe motherhood scheme.",
+  "benefit": "Financial maternity support",
+  "tags": ["female"],
+  "officialLink": "https://nhm.gov.in/",
+  "simpleWords": "Support for safe delivery and maternal healthcare.",
+  "eligibilityText": [
+    "Pregnant women eligible"
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "Medical Documents"
+  ],
+  "applySteps": [
+    "Visit health center",
+    "Register pregnancy"
+  ],
+  "eligibility": {
+    "gender": ["Female"]
+  }
+},
+
+{
+  "id": 29,
+  "title": "Sukanya Samriddhi Yojana",
+  "category": "Women & Child",
+  "ministry": "Ministry of Finance",
+  "description": "Savings scheme for girl child.",
+  "benefit": "High interest savings",
+  "tags": ["girl child"],
+  "officialLink": "https://www.nsiindia.gov.in/",
+  "simpleWords": "Savings account scheme for girl child future.",
+  "eligibilityText": [
+    "Girl child required"
+  ],
+  "documents": [
+    "Birth Certificate",
+    "Aadhaar Card"
+  ],
+  "applySteps": [
+    "Visit bank or post office",
+    "Open account"
+  ],
+  "eligibility": {
+    "girlChild": "Yes"
+  }
+},
+
+{
+  "id": 30,
+  "title": "PM Kaushal Vikas Yojana",
+  "category": "Employment",
+  "ministry": "Ministry of Skill Development",
+  "description": "Skill training scheme.",
+  "benefit": "Free skill courses",
+  "tags": ["employment"],
+  "officialLink": "https://www.pmkvyofficial.org/",
+  "simpleWords": "Skill development and employment support.",
+  "eligibilityText": [
+    "Indian youth eligible"
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "Education Proof"
+  ],
+  "applySteps": [
+    "Register online",
+    "Choose course",
+    "Complete training"
+  ],
+  "eligibility": {
+    "ageMin": 18
+  }
+}
+,
+{
+  "id": 31,
+  "title": "PM Fasal Bima Yojana",
+  "category": "Agriculture",
+  "ministry": "Ministry of Agriculture",
+  "description": "Crop insurance scheme for farmers.",
+  "benefit": "Crop insurance coverage",
+  "tags": ["farmer"],
+  "officialLink": "https://pmfby.gov.in/",
+  "simpleWords": "Insurance support for farmers against crop loss.",
+  "eligibilityText": [
+    "Applicant must be farmer"
+  ],
+  "documents": [
+    "Land Records",
+    "Aadhaar Card",
+    "Bank Passbook"
+  ],
+  "applySteps": [
+    "Visit agriculture office",
+    "Register crop details",
+    "Pay premium"
+  ],
+  "eligibility": {
+    "occupation": ["Farmer"]
+  }
+},
+
+{
+  "id": 32,
+  "title": "Soil Health Card Scheme",
+  "category": "Agriculture",
+  "ministry": "Ministry of Agriculture",
+  "description": "Soil testing support for farmers.",
+  "benefit": "Free soil analysis",
+  "tags": ["farmer"],
+  "officialLink": "https://soilhealth.dac.gov.in/",
+  "simpleWords": "Helps farmers improve crop productivity through soil testing.",
+  "eligibilityText": [
+    "Applicant must be farmer"
+  ],
+  "documents": [
+    "Land Proof",
+    "Aadhaar Card"
+  ],
+  "applySteps": [
+    "Apply through agriculture office",
+    "Submit soil sample",
+    "Receive soil health card"
+  ],
+  "eligibility": {
+    "occupation": ["Farmer"]
+  }
+},
+
+{
+  "id": 33,
+  "title": "Digital India Internship Scheme",
+  "category": "Employment",
+  "ministry": "Ministry of Electronics & IT",
+  "description": "Internship opportunities for students.",
+  "benefit": "Internship stipend",
+  "tags": ["student"],
+  "officialLink": "https://www.meity.gov.in/",
+  "simpleWords": "Internship opportunities for college students in technology fields.",
+  "eligibilityText": [
+    "Student enrollment required"
+  ],
+  "documents": [
+    "College ID",
+    "Resume"
+  ],
+  "applySteps": [
+    "Apply online",
+    "Shortlisting",
+    "Internship selection"
+  ],
+  "eligibility": {
+    "student": "Yes"
+  }
+},
+
+{
+  "id": 34,
+  "title": "National Career Service",
+  "category": "Employment",
+  "ministry": "Ministry of Labour",
+  "description": "Employment portal for job seekers.",
+  "benefit": "Job opportunities",
+  "tags": ["employment"],
+  "officialLink": "https://www.ncs.gov.in/",
+  "simpleWords": "Government employment portal connecting employers and job seekers.",
+  "eligibilityText": [
+    "Indian citizen required"
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "Resume"
+  ],
+  "applySteps": [
+    "Register on portal",
+    "Search jobs",
+    "Apply for openings"
+  ],
+  "eligibility": {
+    "ageMin": 18
+  }
+},
+
+{
+  "id": 35,
+  "title": "National Education Loan Scheme",
+  "category": "Education",
+  "ministry": "Ministry of Education",
+  "description": "Loan support for higher education.",
+  "benefit": "Education loans",
+  "tags": ["student"],
+  "officialLink": "https://www.vidyalakshmi.co.in/",
+  "simpleWords": "Education loan assistance for higher studies.",
+  "eligibilityText": [
+    "Student admission required"
+  ],
+  "documents": [
+    "Admission Letter",
+    "Income Proof"
+  ],
+  "applySteps": [
+    "Apply online",
+    "Loan assessment",
+    "Receive approval"
+  ],
+  "eligibility": {
+    "student": "Yes"
+  }
+},
+
+{
+  "id": 36,
+  "title": "PM Street Vendor Scheme",
+  "category": "Business",
+  "ministry": "Ministry of Housing",
+  "description": "Support for small vendors.",
+  "benefit": "Easy loans",
+  "tags": ["vendor"],
+  "officialLink": "https://pmsvanidhi.mohua.gov.in/",
+  "simpleWords": "Loan support for small vendors and hawkers.",
+  "eligibilityText": [
+    "Street vendor required"
+  ],
+  "documents": [
+    "Vendor Certificate",
+    "Aadhaar Card"
+  ],
+  "applySteps": [
+    "Apply online",
+    "Vendor verification",
+    "Receive loan"
+  ],
+  "eligibility": {
+    "occupation": ["Self-employed"]
+  }
+},
+
+{
+  "id": 37,
+  "title": "Free Coaching Scheme",
+  "category": "Education",
+  "ministry": "Ministry of Social Justice",
+  "description": "Coaching assistance for competitive exams.",
+  "benefit": "Free coaching",
+  "tags": ["student"],
+  "officialLink": "https://socialjustice.gov.in/",
+  "simpleWords": "Free coaching support for competitive examination preparation.",
+  "eligibilityText": [
+    "Student required"
+  ],
+  "documents": [
+    "Student ID",
+    "Category Certificate"
+  ],
+  "applySteps": [
+    "Apply online",
+    "Verification",
+    "Join coaching"
+  ],
+  "eligibility": {
+    "student": "Yes"
+  }
+},
+
+{
+  "id": 38,
+  "title": "Working Women Hostel Scheme",
+  "category": "Women & Child",
+  "ministry": "Ministry of Women & Child Development",
+  "description": "Safe accommodation for working women.",
+  "benefit": "Affordable hostel",
+  "tags": ["female"],
+  "officialLink": "https://wcd.nic.in/",
+  "simpleWords": "Safe and affordable accommodation support for women.",
+  "eligibilityText": [
+    "Applicant must be working woman"
+  ],
+  "documents": [
+    "Employment Proof",
+    "Aadhaar Card"
+  ],
+  "applySteps": [
+    "Apply through hostel authority",
+    "Verification",
+    "Allotment"
+  ],
+  "eligibility": {
+    "gender": ["Female"]
+  }
+},
+
+{
+  "id": 39,
+  "title": "National Nutrition Mission",
+  "category": "Health",
+  "ministry": "Ministry of Women & Child Development",
+  "description": "Nutrition support scheme.",
+  "benefit": "Nutritional support",
+  "tags": ["health"],
+  "officialLink": "https://poshanabhiyaan.gov.in/",
+  "simpleWords": "Nutrition and health support for women and children.",
+  "eligibilityText": [
+    "Women and children eligible"
+  ],
+  "documents": [
+    "Aadhaar Card"
+  ],
+  "applySteps": [
+    "Visit health center",
+    "Registration"
+  ],
+  "eligibility": {
+    "gender": ["Female"]
+  }
+},
+
+{
+  "id": 40,
+  "title": "PM Jan Dhan Yojana",
+  "category": "Financial",
+  "ministry": "Ministry of Finance",
+  "description": "Zero balance bank account scheme.",
+  "benefit": "Free bank account",
+  "tags": ["banking"],
+  "officialLink": "https://pmjdy.gov.in/",
+  "simpleWords": "Banking access scheme for all citizens.",
+  "eligibilityText": [
+    "Indian citizen required"
+  ],
+  "documents": [
+    "Aadhaar Card"
+  ],
+  "applySteps": [
+    "Visit bank",
+    "Open Jan Dhan account"
+  ],
+  "eligibility": {
+    "ageMin": 18
+  }
+},
+
+{
+  "id": 41,
+  "title": "E-Shram Scheme",
+  "category": "Employment",
+  "ministry": "Ministry of Labour",
+  "description": "Support for unorganized workers.",
+  "benefit": "Worker benefits",
+  "tags": ["worker"],
+  "officialLink": "https://eshram.gov.in/",
+  "simpleWords": "Registration and welfare support for workers.",
+  "eligibilityText": [
+    "Unorganized worker required"
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "Bank Account"
+  ],
+  "applySteps": [
+    "Register online",
+    "Receive E-Shram card"
+  ],
+  "eligibility": {
+    "occupation": ["Worker"]
+  }
+},
+
+{
+  "id": 42,
+  "title": "National Child Labour Project",
+  "category": "Women & Child",
+  "ministry": "Ministry of Labour",
+  "description": "Rehabilitation support for child workers.",
+  "benefit": "Education + rehabilitation",
+  "tags": ["child"],
+  "officialLink": "https://labour.gov.in/",
+  "simpleWords": "Support for rehabilitation and education of children.",
+  "eligibilityText": [
+    "Child beneficiaries eligible"
+  ],
+  "documents": [
+    "Birth Certificate"
+  ],
+  "applySteps": [
+    "Visit local authority",
+    "Verification"
+  ],
+  "eligibility": {
+    "ageMax": 18
+  }
+},
+
+{
+  "id": 43,
+  "title": "PM Garib Kalyan Anna Yojana",
+  "category": "Financial",
+  "ministry": "Ministry of Food Supply",
+  "description": "Free ration support scheme.",
+  "benefit": "Free food grains",
+  "tags": ["bpl"],
+  "officialLink": "https://dfpd.gov.in/",
+  "simpleWords": "Free ration and food support for poor families.",
+  "eligibilityText": [
+    "BPL family required"
+  ],
+  "documents": [
+    "Ration Card",
+    "Aadhaar Card"
+  ],
+  "applySteps": [
+    "Visit ration shop",
+    "Verify identity"
+  ],
+  "eligibility": {
+    "bpl": "Yes"
+  }
+},
+
+{
+  "id": 44,
+  "title": "National Pension Scheme",
+  "category": "Pension",
+  "ministry": "Ministry of Finance",
+  "description": "Retirement savings scheme.",
+  "benefit": "Retirement pension",
+  "tags": ["pension"],
+  "officialLink": "https://www.npscra.nsdl.co.in/",
+  "simpleWords": "Long term pension and retirement savings scheme.",
+  "eligibilityText": [
+    "Age between 18 and 70"
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "PAN Card"
+  ],
+  "applySteps": [
+    "Register online",
+    "Choose pension plan"
+  ],
+  "eligibility": {
+    "ageMin": 18
+  }
+},
+
+{
+  "id": 45,
+  "title": "Drone Didi Scheme",
+  "category": "Agriculture",
+  "ministry": "Ministry of Agriculture",
+  "description": "Drone training for women farmers.",
+  "benefit": "Drone training support",
+  "tags": ["female", "farmer"],
+  "officialLink": "https://agricoop.nic.in/",
+  "simpleWords": "Technology and drone training support for women farmers.",
+  "eligibilityText": [
+    "Women farmer required"
+  ],
+  "documents": [
+    "Land Proof",
+    "Aadhaar Card"
+  ],
+  "applySteps": [
+    "Apply online",
+    "Attend training"
+  ],
+  "eligibility": {
+    "gender": ["Female"]
+  }
+},
+
+{
+  "id": 46,
+  "title": "National Rural Drinking Water Programme",
+  "category": "Health",
+  "ministry": "Ministry of Jal Shakti",
+  "description": "Safe drinking water support.",
+  "benefit": "Clean water access",
+  "tags": ["rural"],
+  "officialLink": "https://jalshakti-ddws.gov.in/",
+  "simpleWords": "Safe drinking water support for rural areas.",
+  "eligibilityText": [
+    "Rural area required"
+  ],
+  "documents": [
+    "Address Proof"
+  ],
+  "applySteps": [
+    "Apply through village office"
+  ],
+  "eligibility": {
+    "area": ["Rural"]
+  }
+},
+
+{
+  "id": 47,
+  "title": "Solar Rooftop Subsidy Scheme",
+  "category": "Housing",
+  "ministry": "Ministry of Renewable Energy",
+  "description": "Subsidy for rooftop solar installation.",
+  "benefit": "Solar subsidy",
+  "tags": ["housing"],
+  "officialLink": "https://solarrooftop.gov.in/",
+  "simpleWords": "Government subsidy for installing solar panels.",
+  "eligibilityText": [
+    "House ownership required"
+  ],
+  "documents": [
+    "Electricity Bill",
+    "Aadhaar Card"
+  ],
+  "applySteps": [
+    "Apply online",
+    "Install solar panels",
+    "Receive subsidy"
+  ],
+  "eligibility": {
+    "income": ["1-3L", "3-6L"]
+  }
+},
+
+{
+  "id": 48,
+  "title": "National Handicraft Development Programme",
+  "category": "Business",
+  "ministry": "Ministry of Textiles",
+  "description": "Support for artisans and handicraft workers.",
+  "benefit": "Financial assistance",
+  "tags": ["artisan"],
+  "officialLink": "https://handicrafts.nic.in/",
+  "simpleWords": "Support for artisans and handicraft businesses.",
+  "eligibilityText": [
+    "Artisan or craft worker required"
+  ],
+  "documents": [
+    "Artisan ID",
+    "Aadhaar Card"
+  ],
+  "applySteps": [
+    "Register through handicraft office",
+    "Verification"
+  ],
+  "eligibility": {
+    "occupation": ["Self-employed"]
+  }
+},
+
+{
+  "id": 49,
+  "title": "National Digital Literacy Mission",
+  "category": "Education",
+  "ministry": "Ministry of Electronics & IT",
+  "description": "Digital literacy training programme.",
+  "benefit": "Free computer training",
+  "tags": ["student"],
+  "officialLink": "https://www.pmgdisha.in/",
+  "simpleWords": "Digital and computer literacy training support.",
+  "eligibilityText": [
+    "Indian citizen required"
+  ],
+  "documents": [
+    "Aadhaar Card"
+  ],
+  "applySteps": [
+    "Register online",
+    "Attend training"
+  ],
+  "eligibility": {
+    "ageMin": 14
+  }
+},
+
+{
+  "id": 50,
+  "title": "One Stop Centre Scheme",
+  "category": "Women & Child",
+  "ministry": "Ministry of Women & Child Development",
+  "description": "Support center for women in distress.",
+  "benefit": "Legal and medical assistance",
+  "tags": ["female"],
+  "officialLink": "https://sakhi.gov.in/",
+  "simpleWords": "Safety, legal and medical support for women.",
+  "eligibilityText": [
+    "Women beneficiaries eligible"
+  ],
+  "documents": [
+    "Identity Proof"
+  ],
+  "applySteps": [
+    "Visit nearest center",
+    "Seek assistance"
+  ],
+  "eligibility": {
+    "gender": ["Female"]
+  }
+}
+]
